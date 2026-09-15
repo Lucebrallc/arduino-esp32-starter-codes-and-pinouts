@@ -2,6 +2,8 @@
 
 > Tested boilerplate code snippets, circuit pinout tables, and practical projects for Arduino, ESP32, and Raspberry Pi makers by [Educational Engineering Team](https://www.lucebra.com/instructor/educationalengineeringteam) on [Lucebra](https://www.lucebra.com).
 
+> 🌐 **Global Accessibility:** All courses include synchronous **AI-powered subtitles in 99+ languages**, verifiable digital certificates, and full offline mobile support across 33 native platform locales.
+
 [![Lucebra Platform](https://img.shields.io/badge/Platform-Lucebra.com-2563eb.svg)](https://www.lucebra.com)
 [![Hardware Verified](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Arduino%20Uno-10b981.svg)](https://www.lucebra.com)
 [![350+ Video Projects](https://img.shields.io/badge/Video%20Courses-350%2B%20Tracks-orange.svg)](https://www.lucebra.com/instructor/educationalengineeringteam)
