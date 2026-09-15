@@ -6,6 +6,7 @@
 [![Hardware Verified](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Arduino%20Uno-10b981.svg)](https://www.lucebra.com)
 [![350+ Video Projects](https://img.shields.io/badge/Video%20Courses-350%2B%20Tracks-orange.svg)](https://www.lucebra.com/instructor/educationalengineeringteam)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-about.lucebra.com%2Fblog-0284c7.svg?logo=rss&logoColor=white)](https://www.about.lucebra.com/blog)
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-34a853.svg?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
 [![App Store](https://img.shields.io/badge/App_Store-iOS-000000.svg?logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
 
@@ -151,4 +152,7 @@ Study anytime, anywhere with offline video streaming, audio mode, quiz practice,
 
 ---
 
+- 📰 **Engineering & Learning Blog:** [about.lucebra.com/blog](https://www.about.lucebra.com/blog) — *Deep dives into AI, software engineering, embedded systems, and tech tutorials.*
+
+---
 © Lucebra Global Education. Visit [lucebra.com](https://www.lucebra.com).
