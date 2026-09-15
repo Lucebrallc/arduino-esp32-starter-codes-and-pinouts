@@ -6,6 +6,8 @@
 [![Hardware Verified](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Arduino%20Uno-10b981.svg)](https://www.lucebra.com)
 [![350+ Video Projects](https://img.shields.io/badge/Video%20Courses-350%2B%20Tracks-orange.svg)](https://www.lucebra.com/instructor/educationalengineeringteam)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34a853.svg?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
+[![App Store](https://img.shields.io/badge/App_Store-iOS-000000.svg?logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
 
 ---
 
@@ -135,4 +137,18 @@ All 350+ embedded courses by Ashraf Said AlMadhoun are indexed at:
 👉 [**Lucebrallc/awesome-educational-engineering-team-courses**](https://github.com/Lucebrallc/awesome-educational-engineering-team-courses)
 
 ---
+
+---
+
+## 📱 Learn on the Go — Official Lucebra Mobile Apps
+
+Study anytime, anywhere with offline video streaming, audio mode, quiz practice, and instant verifiable certificates on iOS and Android:
+
+| Platform | Direct Store Link | Availability |
+| :--- | :--- | :---: |
+| 🍏 **Apple App Store (iOS & iPadOS)** | [👉 **Download on the App Store**](https://apps.apple.com/us/app/lucebra/id6754839631) | Free Download |
+| 🤖 **Google Play Store (Android)** | [👉 **Get it on Google Play**](https://play.google.com/store/apps/details?id=com.lucebra.app) | Free Download |
+
+---
+
 © Lucebra Global Education. Visit [lucebra.com](https://www.lucebra.com).
